@@ -1,5 +1,5 @@
 To set up the project:
-git clone https://github.com/Primo_test
+git clone https://github.com/Mannoppakorn/Primo_testing.git
 
 1. Install dependencies
    npm install
